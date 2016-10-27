@@ -2,3 +2,34 @@
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+html {
+  box-sizing: border-box;
+  font-family:'Merriweather', serif;
+  line-height: 1.5;
+  color: #fff;
+}
+
+header {
+  background-color: #d05c2e;
+  text-align: center;
+}
+
+h1 {
+   font-size: 2rem;
+}
+
+li {
+  display: inline;
+  font-size: 1.125rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: #d05c2e;
+    border: #a63f38;
+    padding: 1em 1em 1em;
+    border-radius: 5px;
+    display: inline-block;
+}

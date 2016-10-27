@@ -22,7 +22,7 @@ deliverables: "1 HTML file, 1 CSS file, images"
 - *Line height:* `1.5`
 - *Colours:* `#d05c2e`, `#a63f38`
 - *Margins:* `0`, `0 0 .7rem`, `.3rem`
-- *Paddings:* `0`, `.5em 0 0`, `.4rem 0`
+  - *Paddings:* `0`, `.5em 0 0`, `.4rem 0`
 - *Grain icon width:* `40px`
 
 ---

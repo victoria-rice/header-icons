@@ -25,9 +25,22 @@ h1 {
    margin: 0;
 }
 
+.navi {
+  display: inline-block;
+}
+
 li {
   display: inline;
   font-size: 1.125rem;
+  border: 3px solid #a63f38;
+}
+
+li:first-child {
+  float: left;
+}
+
+li:last-child {
+  float: right;
 }
 
 a {
